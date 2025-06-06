@@ -1,4 +1,4 @@
-import '../css/DataTable.css';
+import '../css/Datatable.css';
 
 export default function DataTable({ data }) {
   if (!data || data.length === 0) return null;
