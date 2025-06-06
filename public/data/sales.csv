@@ -1,0 +1,104 @@
+Date,Sales_Rep,Region,Product_Category,Product_Name,Quantity,Unit_Price,Total_Revenue,Customer_Type,Customer_Name
+2024-01-15,Sarah Johnson,North America,Software,CRM Pro,5,299.99,1499.95,B2B,TechCorp Solutions
+2024-01-18,Michael Chen,Asia Pacific,Hardware,Server Rack X1,2,1299.99,2599.98,B2B,DataFlow Inc
+2024-01-22,Emily Rodriguez,Europe,Software,Analytics Suite,3,599.99,1799.97,B2B,Innovation Labs
+2024-01-25,David Thompson,North America,Consulting,Implementation Service,1,2499.99,2499.99,B2B,StartupCo
+2024-01-28,Lisa Wang,Asia Pacific,Software,CRM Pro,8,299.99,2399.92,B2B,Global Manufacturing
+2024-02-02,James Wilson,Europe,Hardware,Workstation Elite,4,899.99,3599.96,B2B,Design Studio Pro
+2024-02-05,Sarah Johnson,North America,Software,Security Shield,6,199.99,1199.94,B2C,Individual Customer
+2024-02-08,Ana Martinez,South America,Software,CRM Pro,12,299.99,3599.88,B2B,Regional Bank Corp
+2024-02-12,Michael Chen,Asia Pacific,Consulting,Training Package,2,999.99,1999.98,B2B,Tech Academy
+2024-02-15,Emily Rodriguez,Europe,Software,Analytics Suite,7,599.99,4199.93,B2B,Research Institute
+2024-02-18,David Thompson,North America,Hardware,Server Rack X1,3,1299.99,3899.97,B2B,Cloud Hosting Co
+2024-02-22,Lisa Wang,Asia Pacific,Software,Security Shield,15,199.99,2999.85,B2B,Financial Services Ltd
+2024-02-25,James Wilson,Europe,Software,CRM Pro,4,299.99,1199.96,B2B,Marketing Agency
+2024-02-28,Sarah Johnson,North America,Consulting,Strategy Consulting,1,4999.99,4999.99,B2B,Enterprise Corp
+2024-03-05,Ana Martinez,South America,Hardware,Workstation Elite,6,899.99,5399.94,B2B,Architecture Firm
+2024-03-08,Michael Chen,Asia Pacific,Software,Analytics Suite,9,599.99,5399.91,B2B,E-commerce Giant
+2024-03-12,Emily Rodriguez,Europe,Software,Security Shield,20,199.99,3999.80,B2B,Government Agency
+2024-03-15,David Thompson,North America,Software,CRM Pro,18,299.99,5399.82,B2B,Healthcare Network
+2024-03-18,Lisa Wang,Asia Pacific,Hardware,Server Rack X1,1,1299.99,1299.99,B2B,Startup Hub
+2024-03-22,James Wilson,Europe,Consulting,Implementation Service,3,2499.99,7499.97,B2B,Manufacturing Corp
+2024-03-25,Sarah Johnson,North America,Software,Analytics Suite,11,599.99,6599.89,B2B,Retail Chain
+2024-03-28,Ana Martinez,South America,Software,Security Shield,8,199.99,1599.92,B2C,Individual Customer
+2024-04-02,Michael Chen,Asia Pacific,Software,CRM Pro,14,299.99,4199.86,B2B,Logistics Company
+2024-04-05,Emily Rodriguez,Europe,Hardware,Workstation Elite,5,899.99,4499.95,B2B,Creative Agency
+2024-04-08,David Thompson,North America,Software,Security Shield,25,199.99,4999.75,B2B,Insurance Group
+2024-04-12,Lisa Wang,Asia Pacific,Consulting,Training Package,4,999.99,3999.96,B2B,University System
+2024-04-15,James Wilson,Europe,Software,Analytics Suite,13,599.99,7799.87,B2B,Consulting Firm
+2024-04-18,Sarah Johnson,North America,Hardware,Server Rack X1,2,1299.99,2599.98,B2B,Tech Startup
+2024-04-22,Ana Martinez,South America,Software,CRM Pro,16,299.99,4799.84,B2B,Real Estate Group
+2024-04-25,Michael Chen,Asia Pacific,Software,Security Shield,12,199.99,2399.88,B2B,Fintech Company
+2024-04-28,Emily Rodriguez,Europe,Consulting,Strategy Consulting,2,4999.99,9999.98,B2B,Multinational Corp
+2024-05-02,David Thompson,North America,Software,Analytics Suite,8,599.99,4799.92,B2B,Media Company
+2024-05-05,Lisa Wang,Asia Pacific,Hardware,Workstation Elite,7,899.99,6299.93,B2B,Game Development Studio
+2024-05-08,James Wilson,Europe,Software,CRM Pro,22,299.99,6599.78,B2B,Non-profit Org
+2024-05-12,Sarah Johnson,North America,Software,Security Shield,18,199.99,3599.82,B2B,Legal Firm
+2024-05-15,Ana Martinez,South America,Hardware,Server Rack X1,4,1299.99,5199.96,B2B,Data Center Co
+2024-05-18,Michael Chen,Asia Pacific,Consulting,Implementation Service,2,2499.99,4999.98,B2B,Enterprise Solutions
+2024-05-22,Emily Rodriguez,Europe,Software,Analytics Suite,15,599.99,8999.85,B2B,Market Research Co
+2024-05-25,David Thompson,North America,Software,CRM Pro,20,299.99,5999.80,B2B,Sales Organization
+2024-05-28,Lisa Wang,Asia Pacific,Software,Security Shield,30,199.99,5999.70,B2B,Cybersecurity Firm
+2024-06-02,James Wilson,Europe,Hardware,Workstation Elite,3,899.99,2699.97,B2C,Individual Customer
+2024-06-05,Sarah Johnson,North America,Consulting,Training Package,6,999.99,5999.94,B2B,Training Institute
+2024-06-08,Ana Martinez,South America,Software,Analytics Suite,10,599.99,5999.90,B2B,Analytics Company
+2024-06-12,Michael Chen,Asia Pacific,Software,CRM Pro,28,299.99,8399.72,B2B,Enterprise Software Co
+2024-06-15,Emily Rodriguez,Europe,Software,Security Shield,22,199.99,4399.78,B2B,Security Consultancy
+2024-06-18,David Thompson,North America,Hardware,Server Rack X1,5,1299.99,6499.95,B2B,Cloud Provider
+2024-06-22,Lisa Wang,Asia Pacific,Consulting,Strategy Consulting,1,4999.99,4999.99,B2B,Growth Company
+2024-06-25,James Wilson,Europe,Software,Analytics Suite,17,599.99,10199.83,B2B,Business Intelligence Co
+2024-06-28,Sarah Johnson,North America,Software,CRM Pro,24,299.99,7199.76,B2B,Customer Success Co
+2024-07-02,Ana Martinez,South America,Hardware,Workstation Elite,8,899.99,7199.92,B2B,Design Consultancy
+2024-07-05,Michael Chen,Asia Pacific,Software,Security Shield,35,199.99,6999.65,B2B,Security Provider
+2024-07-08,Emily Rodriguez,Europe,Software,CRM Pro,19,299.99,5699.81,B2B,Marketing Platform
+2024-07-12,David Thompson,North America,Consulting,Implementation Service,4,2499.99,9999.96,B2B,Digital Transformation Co
+2024-07-15,Lisa Wang,Asia Pacific,Software,Analytics Suite,21,599.99,12599.79,B2B,Data Science Company
+2024-07-18,James Wilson,Europe,Hardware,Server Rack X1,3,1299.99,3899.97,B2B,Hosting Provider
+2024-07-22,Sarah Johnson,North America,Software,Security Shield,28,199.99,5599.72,B2B,Compliance Software Co
+2024-07-25,Ana Martinez,South America,Software,CRM Pro,15,299.99,4499.85,B2B,Customer Service Co
+2024-07-28,Michael Chen,Asia Pacific,Consulting,Training Package,5,999.99,4999.95,B2B,Professional Services
+2024-08-02,Emily Rodriguez,Europe,Software,Analytics Suite,18,599.99,10799.82,B2B,Business Analytics Co
+2024-08-05,David Thompson,North America,Hardware,Workstation Elite,9,899.99,8099.91,B2B,Content Creation Co
+2024-08-08,Lisa Wang,Asia Pacific,Software,CRM Pro,32,299.99,9599.68,B2B,Sales Platform
+2024-08-12,James Wilson,Europe,Software,Security Shield,25,199.99,4999.75,B2B,Privacy Solutions Co
+2024-08-15,Sarah Johnson,North America,Consulting,Strategy Consulting,2,4999.99,9999.98,B2B,Strategic Consulting
+2024-08-18,Ana Martinez,South America,Hardware,Server Rack X1,6,1299.99,7799.94,B2B,Infrastructure Co
+2024-08-22,Michael Chen,Asia Pacific,Software,Analytics Suite,23,599.99,13799.77,B2B,Intelligence Platform
+2024-08-25,Emily Rodriguez,Europe,Software,CRM Pro,26,299.99,7799.74,B2B,Customer Platform
+2024-08-28,David Thompson,North America,Software,Security Shield,31,199.99,6199.69,B2B,Enterprise Security
+2024-09-02,Lisa Wang,Asia Pacific,Hardware,Workstation Elite,4,899.99,3599.96,B2C,Individual Customer
+2024-09-05,James Wilson,Europe,Consulting,Implementation Service,3,2499.99,7499.97,B2B,Implementation Co
+2024-09-08,Sarah Johnson,North America,Software,Analytics Suite,19,599.99,11399.81,B2B,Insights Company
+2024-09-12,Ana Martinez,South America,Software,CRM Pro,21,299.99,6299.79,B2B,Relationship Management Co
+2024-09-15,Michael Chen,Asia Pacific,Software,Security Shield,27,199.99,5399.73,B2B,Protection Services
+2024-09-18,Emily Rodriguez,Europe,Hardware,Server Rack X1,2,1299.99,2599.98,B2B,Server Solutions Co
+2024-09-22,David Thompson,North America,Consulting,Training Package,7,999.99,6999.93,B2B,Education Platform
+2024-09-25,Lisa Wang,Asia Pacific,Software,Analytics Suite,25,599.99,14999.75,B2B,Advanced Analytics Co
+2024-09-28,James Wilson,Europe,Software,CRM Pro,29,299.99,8699.71,B2B,Customer Experience Co
+2024-10-02,Sarah Johnson,North America,Hardware,Workstation Elite,6,899.99,5399.94,B2B,Creative Solutions Co
+2024-10-05,Ana Martinez,South America,Software,Security Shield,33,199.99,6599.67,B2B,Cyber Defense Co
+2024-10-08,Michael Chen,Asia Pacific,Software,CRM Pro,35,299.99,10499.65,B2B,Engagement Platform
+2024-10-12,Emily Rodriguez,Europe,Consulting,Strategy Consulting,3,4999.99,14999.97,B2B,Strategy Partners
+2024-10-15,David Thompson,North America,Software,Analytics Suite,22,599.99,13199.78,B2B,Decision Intelligence Co
+2024-10-18,Lisa Wang,Asia Pacific,Hardware,Server Rack X1,4,1299.99,5199.96,B2B,Computing Solutions
+2024-10-22,James Wilson,Europe,Software,Security Shield,29,199.99,5799.71,B2B,Security Intelligence Co
+2024-10-25,Sarah Johnson,North America,Software,CRM Pro,31,299.99,9299.69,B2B,Revenue Operations Co
+2024-10-28,Ana Martinez,South America,Consulting,Implementation Service,2,2499.99,4999.98,B2B,Systems Integration Co
+2024-11-02,Michael Chen,Asia Pacific,Software,Analytics Suite,27,599.99,16199.73,B2B,Predictive Analytics Co
+2024-11-05,Emily Rodriguez,Europe,Hardware,Workstation Elite,10,899.99,8999.90,B2B,Production Studio
+2024-11-08,David Thompson,North America,Software,Security Shield,36,199.99,7199.64,B2B,Risk Management Co
+2024-11-12,Lisa Wang,Asia Pacific,Software,CRM Pro,38,299.99,11399.62,B2B,Customer Intelligence Co
+2024-11-15,James Wilson,Europe,Consulting,Training Package,8,999.99,7999.92,B2B,Skills Development Co
+2024-11-18,Sarah Johnson,North America,Software,Analytics Suite,24,599.99,14399.76,B2B,Performance Analytics Co
+2024-11-22,Ana Martinez,South America,Hardware,Server Rack X1,7,1299.99,9099.93,B2B,Enterprise Infrastructure Co
+2024-11-25,Michael Chen,Asia Pacific,Software,Security Shield,32,199.99,6399.68,B2B,Threat Protection Co
+2024-11-28,Emily Rodriguez,Europe,Software,CRM Pro,34,299.99,10199.66,B2B,Customer Success Platform
+2024-12-02,David Thompson,North America,Consulting,Strategy Consulting,4,4999.99,19999.96,B2B,Transformation Partners
+2024-12-05,Lisa Wang,Asia Pacific,Software,Analytics Suite,30,599.99,17999.70,B2B,Data Insights Co
+2024-12-08,James Wilson,Europe,Hardware,Workstation Elite,5,899.99,4499.95,B2C,Individual Customer
+2024-12-12,Sarah Johnson,North America,Software,Security Shield,40,199.99,7999.60,B2B,Compliance Automation Co
+2024-12-15,Ana Martinez,South America,Software,CRM Pro,25,299.99,7499.75,B2B,Sales Acceleration Co
+2024-12-18,Michael Chen,Asia Pacific,Consulting,Implementation Service,5,2499.99,12499.95,B2B,Digital Solutions Co
+2024-12-22,Emily Rodriguez,Europe,Software,Analytics Suite,28,599.99,16799.72,B2B,Strategic Intelligence Co
+2024-12-25,David Thompson,North America,Hardware,Server Rack X1,8,1299.99,10399.92,B2B,Infrastructure Solutions Co
+2024-12-28,Lisa Wang,Asia Pacific,Software,Security Shield,38,199.99,7599.62,B2B,Cybersecurity Platform
