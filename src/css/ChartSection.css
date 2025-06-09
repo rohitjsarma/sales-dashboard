@@ -1,0 +1,32 @@
+.dashboard-charts {
+  background-color: #f4f6f8;
+}
+
+.chart-section {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+  margin-bottom: 40px;
+}
+
+.chart-section h2 {
+  margin-bottom: 16px;
+  font-size: 1.5rem;
+  color: #111827;
+}
+
+.leaderboard {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.leaderboard-item {
+  font-size: 1rem;
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

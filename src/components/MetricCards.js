@@ -1,3 +1,5 @@
+'use client';
+import Link from 'next/link';
 import '../css/Metriccard.css';
 
 export default function MetricCards({ data }) {
@@ -10,26 +12,31 @@ export default function MetricCards({ data }) {
       label: 'Total Revenue',
       value: `$${totalRevenue.toLocaleString(undefined, { maximumFractionDigits: 2 })}`,
       color: 'blue',
+      link: '/chart',
     },
     {
       label: 'Total Sales',
       value: totalSales,
       color: 'green',
+      link: '/table',
     },
     {
       label: 'Unique Customers',
       value: uniqueCustomers,
       color: 'yellow',
+      link: '/',
     },
   ];
 
   return (
     <div className="metric-cards">
       {metrics.map((m, idx) => (
-        <div key={idx} className={`metric-card ${m.color}`}>
-          <h3 className="metric-title">{m.label}</h3>
-          <p className="metric-value">{m.value}</p>
-        </div>
+        <Link key={idx} href={m.link} className={`metric-card ${m.color}`}>
+          <div>
+            <h3 className="metric-title">{m.label}</h3>
+            <p className="metric-value">{m.value}</p>
+          </div>
+        </Link>
       ))}
     </div>
   );
