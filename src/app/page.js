@@ -1,4 +1,6 @@
 'use client';
+import ColorComp from '@/components/ColorComp';
+import UserDetails from '@/components/UserDetails';
 import Link from 'next/link';
 
 export default function HomePage() {
@@ -27,12 +29,20 @@ export default function HomePage() {
         >
           📈 Metric Card
         </Link>
+        <Link
+          href="/traffic"
+          className="bg-black/40 px-6 py-3 rounded-md border border-white hover:bg-white hover:text-black transition duration-300"
+        >
+          📈 Traffic Light & User Details 
+        </Link>
       </nav>
 
       <div className="flex-grow flex items-center justify-center">
         <h1 className="text-4xl font-bold text-center drop-shadow-lg">
           Sales - Dashboard Navigation
         </h1>
+        <ColorComp/>
+        <UserDetails/>
       </div>
     </main>
   );
